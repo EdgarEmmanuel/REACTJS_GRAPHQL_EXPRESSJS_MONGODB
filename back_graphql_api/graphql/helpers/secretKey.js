@@ -1,0 +1,1 @@
+module.exports.secretKey = "$2a$12$kZaRpjIgvPS54gQzcia0CO2gwsxE1Xh45qs0S/8IP2MGuTzB7yyM.";
