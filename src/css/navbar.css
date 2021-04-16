@@ -1,0 +1,41 @@
+.navbar{
+    position: sticky;
+    top:0;
+    z-index:99;
+    padding:10px 10px;
+}
+
+
+.navbar header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+.navbar header img{
+    width:6rem;
+}
+
+
+.navbar header .menu{
+    justify-content: space-between;
+}
+
+.menu a{
+    margin:0px 10px;
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+    border:1px solid white;
+    background: white;
+    padding:2px 10px ;
+}
+
+.menu a:hover{
+    border:1px solid black;
+    background: black;
+    color:white;
+    padding:2px 10px ;
+    border-radius:10px;
+}

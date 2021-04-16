@@ -1,0 +1,50 @@
+.Signup_page{
+    margin-top: 120px;
+}
+
+
+form {
+   margin-left:120px;
+   margin-top:23px;
+   background:white;
+   align-items: center;
+   width:230px;
+   padding:30px 30px;
+   border-radius:10px;
+}
+
+form p{
+    text-align: center;
+    font-weight:bold;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+form input {
+    border-radius:10px;
+    outline-width: 0;
+    padding:5px 5px;
+}
+
+form input[type="submit"]{
+    border:1px solid black;
+    color:black;
+    background:white;
+    padding:10px 10px;
+    margin:0px 5px;
+    border-radius:10px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.Signup_page a {
+    border:1px solid black;
+    color:black;
+    background:white;
+    padding:10px 10px;
+    margin:0px 5px;
+    font-size:13px;
+    font-weight:bold;
+    text-decoration: none;
+    border-radius:10px;
+}
